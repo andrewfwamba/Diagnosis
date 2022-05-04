@@ -109,9 +109,9 @@ crlf crlf
  =>
  (retract ?retractChy)
  (printout t crlf crlf crlf " You are suffering from
-Psychosis- Psychotic disorder" crlf crlf
+Psychosis - Psychotic disorder" crlf crlf
 "Recommendations are: Cognitive behavioral therapy and
-psychotic medicaions"
+psychotic medications"
  crlf crlf " Thank you for using the
 system. Glad you were served "crlf crlf )
 )
